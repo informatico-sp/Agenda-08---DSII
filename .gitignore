@@ -1,0 +1,15 @@
+# Ambiente
+.env
+.DS_Store
+Thumbs.db
+
+# Dependências (caso venha a usar Composer no futuro)
+/vendor/
+composer.lock
+
+# Logs
+*.log
+
+# Configurações locais de IDE
+.vscode/
+.idea/
